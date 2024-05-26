@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex McTernan
 - 👀 I’m interested in game development.
-- 🌱 I’m currently in my second year at college for game development.
+- 🌱 I have graduated from the Game Development Program at Algonquin College
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. Email: alex.mcternan3618@gmail.com
 
